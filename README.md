@@ -42,12 +42,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Housing
 일반적으로 Housing은 렌트할 경우, 한달에 $500에서 $1,200사이라고 생각하시면 될 것 같아요.
 > 수정이 필요할듯
-
 * [Google Maps](http://maps.google.com/): 위치정보, 이동간 거리 및 운전정보, 대중교통정보를 확인할 수 있는 매우 유용한 사이트입니다. 살고 싶은 곳의 주소를 Google Maps에 넣어서 검색하면 정확한 위치를 확인해 볼 수 있구요. UW Seattle Campus에 있는 Schmitz Hall을 예로 들겠습니다. `Schmitz Hall (SMZ) 1410 NE Campus Pkwy, Seattle, Washington 98105` 살고 싶은곳의 주소를 우선 Google Maps에 넣은 후, 우측 상단에 있는 Get directions라는 탭을 누르면, 주소를 하나 더 넣을 수 있는 공간이 나오는데요.  이때, 위의 학교주소인 Schmitz Hall주소를 Google Maps에 넣으면 거리가 얼마나 되는지, 걸어서, 버스를 타면, 그리고 직접 운전을 하면 얼마나 걸리는지등에 관한 시간정보를 줍니다.
-
 * [King Metro](http://metro.kingcounty.gov/): 
 대중교통인경우 King Metro에 들어가서 확인할 수도 있습니다. King Metro의 검색 데이터베이스가 좀 불안정해서 확실하지 않을 수도 있는데요 (Google Maps의 신뢰도가 더 높을 수도 있구요). Double Check 하신다고 생각하시면 되겠습니다. King Metro 검색시에는 도시이름, 주, 우편번호를 넣지않고 검색하셔야 합니다. 검색하는 Tip은 [링크](http://tripplanner.kingcounty.gov/help/atis-help-loc.html)를 통해 확인하세요.
- 
 * [ApartmentRatings](Apartmentratings.com): 살고 싶은 아파트가 있을 경우, 들어가서 검색해보면 평가등급과 Review가 나와 있어서 참고하시면 좋을 것 같아요.
 
 #### On-campus
